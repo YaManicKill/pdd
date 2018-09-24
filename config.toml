@@ -1,6 +1,6 @@
 baseURL = "https://www.podcastdrivendev.com/"
 languageCode = "en-gb"
-title = "Podcast Driven Development"
+title = "Podcast Driven Dev"
 theme = "hyde"
 
 [params]
