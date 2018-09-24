@@ -1,4 +1,4 @@
-baseURL = "" # TODO: Buy domain
+baseURL = "https://www.podcastdrivendev.com/"
 languageCode = "en-gb"
 title = "Podcast Driven Development"
 theme = "hyde"
