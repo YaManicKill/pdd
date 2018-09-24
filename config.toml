@@ -6,4 +6,4 @@ theme = "hyde"
 [params]
   themeColor = "theme-base-09"
   layoutReverse = true
-  description = "Something about PDD" # TODO: Set up description
+  description = "Things a developer does that aren't the code"
