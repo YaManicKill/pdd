@@ -3,6 +3,9 @@ languageCode = "en-gb"
 title = "Podcast Driven Dev"
 theme = "hyde"
 
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
 [params]
   themeColor = "theme-base-09"
   layoutReverse = true
