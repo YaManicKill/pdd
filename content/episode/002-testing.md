@@ -3,7 +3,7 @@ title: "Testing"
 episode: "2"
 Description: "Al and Andrew talk about testing. What is it, why is it useful, who should do it, etc..."
 podcast: "pdd-2.mp3"
-podcast_bytes: "27717141"
+podcast_bytes: "27684986"
 podcast_duration: "00:43:58"
 date: 2018-11-14:00:00+00:00
 
