@@ -20,7 +20,7 @@ categories: []
 [19:50] Test case definition
 [26:01] Test driven development
 [36:57] Code coverage measurements
-[42:55] Outro
+[42:28] Outro
 
 ## Contact
 
