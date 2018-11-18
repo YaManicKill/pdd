@@ -5,7 +5,7 @@ Description: "Al and Andrew talk about testing. What is it, why is it useful, wh
 podcast: "pdd-2.mp3"
 podcast_bytes: "27684986"
 podcast_duration: "00:43:58"
-date: 2018-11-14:00:00+00:00
+date: 2018-11-14T00:00+00:00
 
 author: "Al McKinlay and Andrew Smillie"
 aliases: []
