@@ -14,13 +14,15 @@ categories: []
 
 ## Timings
 
-[00:] Introduction to Coding Styles
-[] Are coding styles useful?
-[] The great Tabs vs Spaces debate
-[] 
-[] 
-[] 
-[] Outro
+[00:28] Introduction to Coding Styles
+[01:17] The great Tabs vs Spaces debate, part 1
+[03:03] Are coding styles useful?
+[09:05] Style Guides
+[18:00] Reformatting code bases
+[21:20] The great Tabs vs Spaces debate, part 2
+[28:58] Formatting Pull Requests
+[30:50] Tools 
+[41:03] Outro
 
 ## Contact
 
