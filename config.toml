@@ -10,3 +10,4 @@ theme = "hyde"
   themeColor = "theme-base-09"
   layoutReverse = true
   description = "Things a developer does that aren't the code"
+  author = "Al McKinlay and Andrew Smillie"
