@@ -14,7 +14,7 @@ categories: []
 
 ## Timings
 
-[00:29] Introduction to Coding Styles
+[00:29] Introduction to Remote Working
 [02:16] Open Plan Offices
 [06:55] Team Rooms
 [08:28] Private Offices
