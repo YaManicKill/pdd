@@ -2,7 +2,8 @@
 title: "Remote Working"
 episode: "5"
 Description: "Al and Andrew talk about remote working. Is remote better than co-located, and how do you make communication work?"
-podcast: "pdd-5.mp3"
+guid: "https://dts.podtrac.com/redirect.mp3/ymk.nyc3.digitaloceanspaces.com/pdd-5.mp3"
+podcast: "pdd/pdd-005.mp3"
 podcast_bytes: "46158993"
 podcast_duration: "00:48:05"
 date: 2019-01-30T21:00:00+00:00

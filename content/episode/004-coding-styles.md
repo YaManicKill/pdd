@@ -2,7 +2,8 @@
 title: "Coding Styles"
 episode: "4"
 Description: "Al and Andrew talk about coding styles. Are they useful, do they enforce them, what tools do they use, and what coding styles do they use?"
-podcast: "pdd-4.mp3"
+guid: "https://dts.podtrac.com/redirect.mp3/ymk.nyc3.digitaloceanspaces.com/pdd-4.mp3"
+podcast: "pdd/pdd-004.mp3"
 podcast_bytes: "30297885"
 podcast_duration: "00:42:05"
 date: 2018-12-19T21:00:00+00:00

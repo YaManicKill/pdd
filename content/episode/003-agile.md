@@ -2,7 +2,8 @@
 title: "Agile Development"
 episode: "3"
 Description: "Al and Andrew talk about agile development. Their opinions on whether it is useful, and if so...the best ways to do it."
-podcast: "pdd-3.mp3"
+guid: "https://dts.podtrac.com/redirect.mp3/ymk.nyc3.digitaloceanspaces.com/pdd-3.mp3"
+podcast: "pdd/pdd-003.mp3"
 podcast_bytes: "37049639"
 podcast_duration: "00:52:53"
 date: 2018-12-05T00:21:00+00:00

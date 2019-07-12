@@ -2,7 +2,8 @@
 title: "Continuous Integration"
 episode: "1"
 Description: "Al and Andrew introduce themselves, and talk about continuous integration. What's good about it, why is it difficult, etc..."
-podcast: "pdd-1.mp3"
+guid: "https://dts.podtrac.com/redirect.mp3/ymk.nyc3.digitaloceanspaces.com/pdd-1.mp3"
+podcast: "pdd/pdd-001.mp3"
 podcast_bytes: "28971257"
 podcast_duration: "00:30:10"
 date: 2018-10-31T21:00:00+00:00
