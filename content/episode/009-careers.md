@@ -2,7 +2,8 @@
 title: "Careers"
 episode: "9"
 Description: "Al and Andrew talk about career paths"
-podcast: "pdd-9.mp3"
+guid: "https://dts.podtrac.com/redirect.mp3/ymk.nyc3.digitaloceanspaces.com/pdd-9.mp3"
+podcast: "pdd/pdd-009.mp3"
 podcast_bytes: "29711045"
 podcast_duration: "30:56"
 date: 2019-06-05T21:00:00+00:00

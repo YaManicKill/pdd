@@ -2,7 +2,8 @@
 title: "Devs Unwilling to Improve"
 episode: "8"
 Description: "Al and Andrew talk about how we deal with developers who don't want to learn, improve, and become better developers. Is it actually a problem?"
-podcast: "pdd-8.mp3"
+guid: "https://dts.podtrac.com/redirect.mp3/ymk.nyc3.digitaloceanspaces.com/pdd-8.mp3"
+podcast: "pdd/pdd-008.mp3"
 podcast_bytes: "41744508"
 podcast_duration: "00:43:29"
 date: 2019-05-08T21:00:00+00:00
