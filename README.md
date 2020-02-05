@@ -12,4 +12,4 @@ Code for the PDD site
 
 ## Deploy
 
-Deploy is done with `yarn build` but it is handled by circleci in the `.circleci/config.yml` file, automatically built and pushed to production server.
+Deploy is done with `yarn build` but it is handled by netlify.
